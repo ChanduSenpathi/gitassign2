@@ -23,3 +23,4 @@ A list of participants in CSC 195
 * Elias Mulhall
 * Yazan A. Kittaneh
 chandu senapathi
+* chandu senapathi
